@@ -1,4 +1,7 @@
-### Hi there 👋
+### I do things 👍
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joelthorner&theme=onedark&no-frame=true&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **joelthorner/joelthorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
